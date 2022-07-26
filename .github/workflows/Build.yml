@@ -38,6 +38,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-addons
           haxelib install flixel-ui
+          haxelib install newgrounds 
           haxelib git hscript https://github.com/skuqre/hscript
           haxelib install hxCodec
           haxelib install yaml
