@@ -1,4 +1,6 @@
 Snake-eyes:cuphead
 Technicolor-tussle:cuphead
+Knockout:cuphead
 Sansational:sans
+Burning-in-hell:sans
 Saness:saness
